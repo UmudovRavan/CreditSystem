@@ -1,0 +1,15 @@
+﻿using CreditManagementSystemHomework.Service.Implementation;
+using CreditManagementSystemHomework.Service.Interface;
+
+namespace CreditManagementSystemHomework.Extentions
+{
+    public static class CustomServiceRegistration
+    {
+        public static void AddCustomServices(this IServiceCollection services)
+        {
+            services.AddScoped<IMerchantService,MerchantService>();
+            services.AddScoped<IBranchService,BranchService>();
+            services.AddScoped<IEmployeeService,EmployeeService>();
+        }
+    }
+}
