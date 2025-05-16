@@ -39,14 +39,15 @@ namespace CreditManagementSystemHomework.Areas.Admin.Controllers
             return RedirectToAction("Index");
         }
 
-        public async Task<IActionResult> Edit (int id)
+        public async Task<IActionResult> Edit(int id)
         {
             var branch = await _branchService.GetByIdAsync(id);
             if (branch == null)
             {
                 return NotFound();
             }
-            ViewBag.Merchant = await _branchService.GetAllAsync();
+            ViewBag.Merchant = await _db.Merchant.ToListAsync(); 
+
             return View(branch);
         }
         [HttpPost]
@@ -61,10 +62,16 @@ namespace CreditManagementSystemHomework.Areas.Admin.Controllers
             ViewBag.Merchant = await _db.Merchant.ToListAsync();
             return View(model); 
         }
-        [HttpPost]
         public async Task<IActionResult> Delete(int id)
         {
-            await _branchService.DeleteAsync(id);   
+            var branch = await _branchService.GetByIdAsync(id);
+            if(branch == null) return NotFound();
+            return View(branch);
+        }
+        [HttpPost]
+        public async Task<IActionResult> Delete(BranchVM branch)
+        {
+            await _branchService.DeleteAsync(branch.Id);   
             return RedirectToAction("Index");
         }
     }

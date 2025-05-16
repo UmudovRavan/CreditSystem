@@ -57,10 +57,16 @@ namespace CreditManagementSystemHomework.Areas.Admin.Controllers
             }
             return View(model);
         }
-        [HttpPost]
         public async Task<IActionResult> Delete(int id)
         {
-            await _merchantService.DeleteAsync(id);
+            var merchant = await _merchantService.GetByIdAsync(id);
+            if(merchant == null) return NotFound();
+            return View(merchant);
+        }
+        [HttpPost]
+        public async Task<IActionResult> Delete(MerchantVM merchant)
+        {
+            await _merchantService.DeleteAsync(merchant.Id);
             return RedirectToAction("Index");
         }
     }

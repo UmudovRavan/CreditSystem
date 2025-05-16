@@ -7635,11 +7635,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditManagementSystemHomework\\CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj",
+      "projectUniqueName": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj",
       "projectName": "CreditManagementSystemHomework",
-      "projectPath": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditManagementSystemHomework\\CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj",
+      "projectPath": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj",
       "packagesPath": "C:\\Users\\Ravan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditManagementSystemHomework\\CreditManagementSystemHomework\\obj\\",
+      "outputPath": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

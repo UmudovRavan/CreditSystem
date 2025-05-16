@@ -31,8 +31,13 @@ namespace CreditManagementSystemHomework.Areas.Admin.Controllers
         [HttpPost]
         public async Task<IActionResult> Create(EmployeeVM model)
         {
-            await _employeeService.CreateAsync(model);  
-            return RedirectToAction("Index");
+            if (ModelState.IsValid)
+            {
+                await _employeeService.CreateAsync(model);
+                return RedirectToAction("Index");
+            }
+            ViewBag.Branches = await _dB.Branches.ToListAsync();
+            return View(model);
         }
         public async Task<IActionResult> Edit(int id)
         {
@@ -41,7 +46,7 @@ namespace CreditManagementSystemHomework.Areas.Admin.Controllers
             {
                 return NotFound();
             }
-            ViewBag.Branches = await _employeeService.GetAllAsync();
+            ViewBag.Branches = await _dB.Branches.ToListAsync();    
             return View(employee);
         }
         [HttpPost]
@@ -55,10 +60,16 @@ namespace CreditManagementSystemHomework.Areas.Admin.Controllers
             ViewBag.Branches = await _dB.Branches.ToListAsync();
             return View(model);
         }
-        [HttpPost]
         public async Task<IActionResult> Delete(int id)
         {
-            await _employeeService.DeleteAsync(id); 
+            var employee = await (_employeeService.GetByIdAsync(id));
+            if (employee == null) return NotFound();
+            return View(employee);
+        }
+        [HttpPost]
+        public async Task<IActionResult> Delete(EmployeeVM employee)
+        {
+            await _employeeService.DeleteAsync(employee.Id); 
             return RedirectToAction("Index");
         }
     }

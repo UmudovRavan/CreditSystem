@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wl5ILrcRX4Q=",
+  "dgSpecHash": "n1NzBwhsuno=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditManagementSystemHomework\\CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj",
+  "projectFilePath": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ravan\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
     "C:\\Users\\Ravan\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",

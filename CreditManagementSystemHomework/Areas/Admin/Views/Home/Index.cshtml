@@ -1,0 +1,46 @@
+﻿@{
+    ViewData["Title"] = "Admin Dashboard";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h1>Welcome to Admin Dashboard</h1>
+
+<p>Choose an action below to manage entities:</p>
+
+<div class="row">
+    <div class="col-md-4">
+        <div class="card border-primary mb-3" style="max-width: 18rem;">
+            <div class="card-header bg-primary text-white">Merchant</div>
+            <div class="card-body">
+                <h5 class="card-title">Manage Merchants</h5>
+                <p class="card-text">Add new merchants or view existing ones.</p>
+                <a asp-area="Admin" asp-controller="Merchant" asp-action="Index" class="btn btn-primary">Go to Merchants</a>
+                <a asp-area="Admin" asp-controller="Merchant" asp-action="Create" class="btn btn-success mt-2">Add New Merchant</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-4">
+        <div class="card border-success mb-3" style="max-width: 18rem;">
+            <div class="card-header bg-success text-white">Branch</div>
+            <div class="card-body">
+                <h5 class="card-title">Manage Branches</h5>
+                <p class="card-text">Add new branches or view existing ones.</p>
+                <a asp-area="Admin" asp-controller="Branch" asp-action="Index" class="btn btn-success">Go to Branches</a>
+                <a asp-area="Admin" asp-controller="Branch" asp-action="Create" class="btn btn-primary mt-2">Add New Branch</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-4">
+        <div class="card border-info mb-3" style="max-width: 18rem;">
+            <div class="card-header bg-info text-white">Employee</div>
+            <div class="card-body">
+                <h5 class="card-title">Manage Employees</h5>
+                <p class="card-text">Add new employees or view existing ones.</p>
+                <a asp-area="Admin" asp-controller="Employee" asp-action="Index" class="btn btn-info">Go to Employees</a>
+                <a asp-area="Admin" asp-controller="Employee" asp-action="Create" class="btn btn-primary mt-2">Add New Employee</a>
+            </div>
+        </div>
+    </div>
+</div>

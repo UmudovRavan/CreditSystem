@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CreditManagementSystemHomework")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+36e0592d5cc0a3c1c7bb7e5b1c1c3fa0d4cbe371")]
 [assembly: System.Reflection.AssemblyProductAttribute("CreditManagementSystemHomework")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CreditManagementSystemHomework")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

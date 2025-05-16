@@ -1,165 +1,229 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditManagementSystemHomework\\",
+  "WorkspaceRootPath": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditmanagementsystemhomework\\creditmanagementsystemhomework\\areas\\admin\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditsystem\\creditmanagementsystemhomework\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|solutionrelative:creditmanagementsystemhomework\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditsystem\\creditmanagementsystemhomework\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|solutionrelative:creditmanagementsystemhomework\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditsystem\\creditmanagementsystemhomework\\areas\\admin\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|solutionrelative:creditmanagementsystemhomework\\areas\\admin\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditsystem\\creditmanagementsystemhomework\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|solutionrelative:creditmanagementsystemhomework\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditsystem\\creditmanagementsystemhomework\\areas\\admin\\views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|solutionrelative:creditmanagementsystemhomework\\areas\\admin\\views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditsystem\\creditmanagementsystemhomework\\areas\\admin\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|solutionrelative:creditmanagementsystemhomework\\areas\\admin\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditsystem\\creditmanagementsystemhomework\\areas\\admin\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|solutionrelative:creditmanagementsystemhomework\\areas\\admin\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditsystem\\creditmanagementsystemhomework\\areas\\admin\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|solutionrelative:creditmanagementsystemhomework\\areas\\admin\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditmanagementsystemhomework\\creditmanagementsystemhomework\\areas\\admin\\controllers\\branchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|solutionrelative:creditmanagementsystemhomework\\areas\\admin\\controllers\\branchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditmanagementsystemhomework\\creditmanagementsystemhomework\\data\\creditmanagementdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|solutionrelative:creditmanagementsystemhomework\\data\\creditmanagementdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditmanagementsystemhomework\\creditmanagementsystemhomework\\service\\interface\\igenericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|solutionrelative:creditmanagementsystemhomework\\service\\interface\\igenericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditmanagementsystemhomework\\creditmanagementsystemhomework\\areas\\admin\\controllers\\merchantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|solutionrelative:creditmanagementsystemhomework\\areas\\admin\\controllers\\merchantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditmanagementsystemhomework\\creditmanagementsystemhomework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|solutionrelative:creditmanagementsystemhomework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditmanagementsystemhomework\\creditmanagementsystemhomework\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|solutionrelative:creditmanagementsystemhomework\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditmanagementsystemhomework\\creditmanagementsystemhomework\\service\\implementation\\genericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|solutionrelative:creditmanagementsystemhomework\\service\\implementation\\genericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditmanagementsystemhomework\\creditmanagementsystemhomework\\extentions\\customserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|solutionrelative:creditmanagementsystemhomework\\extentions\\customserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditmanagementsystemhomework\\creditmanagementsystemhomework\\extentions\\customrepositoryregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|solutionrelative:creditmanagementsystemhomework\\extentions\\customrepositoryregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditmanagementsystemhomework\\creditmanagementsystemhomework\\service\\implementation\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|solutionrelative:creditmanagementsystemhomework\\service\\implementation\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditmanagementsystemhomework\\creditmanagementsystemhomework\\service\\interface\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|solutionrelative:creditmanagementsystemhomework\\service\\interface\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditmanagementsystemhomework\\creditmanagementsystemhomework\\service\\implementation\\branchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|solutionrelative:creditmanagementsystemhomework\\service\\implementation\\branchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditmanagementsystemhomework\\creditmanagementsystemhomework\\service\\interface\\ibranchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|solutionrelative:creditmanagementsystemhomework\\service\\interface\\ibranchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditmanagementsystemhomework\\creditmanagementsystemhomework\\service\\implementation\\merchantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|solutionrelative:creditmanagementsystemhomework\\service\\implementation\\merchantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditmanagementsystemhomework\\creditmanagementsystemhomework\\service\\interface\\imerchantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|solutionrelative:creditmanagementsystemhomework\\service\\interface\\imerchantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditmanagementsystemhomework\\creditmanagementsystemhomework\\profiles\\customprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|solutionrelative:creditmanagementsystemhomework\\profiles\\customprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditmanagementsystemhomework\\creditmanagementsystemhomework\\models\\employeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditsystem\\creditmanagementsystemhomework\\models\\employeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|solutionrelative:creditmanagementsystemhomework\\models\\employeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditmanagementsystemhomework\\creditmanagementsystemhomework\\models\\branchvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditsystem\\creditmanagementsystemhomework\\areas\\admin\\controllers\\branchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|solutionrelative:creditmanagementsystemhomework\\areas\\admin\\controllers\\branchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditsystem\\creditmanagementsystemhomework\\areas\\admin\\views\\branch\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|solutionrelative:creditmanagementsystemhomework\\areas\\admin\\views\\branch\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditsystem\\creditmanagementsystemhomework\\areas\\admin\\views\\branch\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|solutionrelative:creditmanagementsystemhomework\\areas\\admin\\views\\branch\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditsystem\\creditmanagementsystemhomework\\areas\\admin\\views\\branch\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|solutionrelative:creditmanagementsystemhomework\\areas\\admin\\views\\branch\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditsystem\\creditmanagementsystemhomework\\areas\\admin\\views\\branch\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|solutionrelative:creditmanagementsystemhomework\\areas\\admin\\views\\branch\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditsystem\\creditmanagementsystemhomework\\models\\branchvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|solutionrelative:creditmanagementsystemhomework\\models\\branchvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditmanagementsystemhomework\\creditmanagementsystemhomework\\models\\merchantvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditsystem\\creditmanagementsystemhomework\\areas\\admin\\views\\merchant\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|solutionrelative:creditmanagementsystemhomework\\areas\\admin\\views\\merchant\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditsystem\\creditmanagementsystemhomework\\areas\\admin\\views\\merchant\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|solutionrelative:creditmanagementsystemhomework\\areas\\admin\\views\\merchant\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditsystem\\creditmanagementsystemhomework\\areas\\admin\\controllers\\merchantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|solutionrelative:creditmanagementsystemhomework\\areas\\admin\\controllers\\merchantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditsystem\\creditmanagementsystemhomework\\areas\\admin\\views\\merchant\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|solutionrelative:creditmanagementsystemhomework\\areas\\admin\\views\\merchant\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditsystem\\creditmanagementsystemhomework\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|solutionrelative:creditmanagementsystemhomework\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditsystem\\creditmanagementsystemhomework\\areas\\admin\\views\\merchant\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|solutionrelative:creditmanagementsystemhomework\\areas\\admin\\views\\merchant\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditsystem\\creditmanagementsystemhomework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|solutionrelative:creditmanagementsystemhomework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditsystem\\creditmanagementsystemhomework\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|solutionrelative:creditmanagementsystemhomework\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditsystem\\creditmanagementsystemhomework\\models\\merchantvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|solutionrelative:creditmanagementsystemhomework\\models\\merchantvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditmanagementsystemhomework\\creditmanagementsystemhomework\\repository\\implementation\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditsystem\\creditmanagementsystemhomework\\data\\creditmanagementdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|solutionrelative:creditmanagementsystemhomework\\data\\creditmanagementdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditsystem\\creditmanagementsystemhomework\\service\\interface\\igenericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|solutionrelative:creditmanagementsystemhomework\\service\\interface\\igenericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditsystem\\creditmanagementsystemhomework\\service\\implementation\\genericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|solutionrelative:creditmanagementsystemhomework\\service\\implementation\\genericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditsystem\\creditmanagementsystemhomework\\extentions\\customserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|solutionrelative:creditmanagementsystemhomework\\extentions\\customserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditsystem\\creditmanagementsystemhomework\\extentions\\customrepositoryregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|solutionrelative:creditmanagementsystemhomework\\extentions\\customrepositoryregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditsystem\\creditmanagementsystemhomework\\service\\implementation\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|solutionrelative:creditmanagementsystemhomework\\service\\implementation\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditsystem\\creditmanagementsystemhomework\\service\\interface\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|solutionrelative:creditmanagementsystemhomework\\service\\interface\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditsystem\\creditmanagementsystemhomework\\service\\implementation\\branchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|solutionrelative:creditmanagementsystemhomework\\service\\implementation\\branchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditsystem\\creditmanagementsystemhomework\\service\\interface\\ibranchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|solutionrelative:creditmanagementsystemhomework\\service\\interface\\ibranchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditsystem\\creditmanagementsystemhomework\\service\\implementation\\merchantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|solutionrelative:creditmanagementsystemhomework\\service\\implementation\\merchantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditsystem\\creditmanagementsystemhomework\\service\\interface\\imerchantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|solutionrelative:creditmanagementsystemhomework\\service\\interface\\imerchantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditsystem\\creditmanagementsystemhomework\\profiles\\customprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|solutionrelative:creditmanagementsystemhomework\\profiles\\customprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditsystem\\creditmanagementsystemhomework\\repository\\implementation\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|solutionrelative:creditmanagementsystemhomework\\repository\\implementation\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditmanagementsystemhomework\\creditmanagementsystemhomework\\repository\\implementation\\branchrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditsystem\\creditmanagementsystemhomework\\repository\\implementation\\branchrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|solutionrelative:creditmanagementsystemhomework\\repository\\implementation\\branchrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditmanagementsystemhomework\\creditmanagementsystemhomework\\repository\\implementation\\merchantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditsystem\\creditmanagementsystemhomework\\repository\\implementation\\merchantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|solutionrelative:creditmanagementsystemhomework\\repository\\implementation\\merchantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditmanagementsystemhomework\\creditmanagementsystemhomework\\repository\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditsystem\\creditmanagementsystemhomework\\repository\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|solutionrelative:creditmanagementsystemhomework\\repository\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditmanagementsystemhomework\\creditmanagementsystemhomework\\repository\\interfaces\\ibranchrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditsystem\\creditmanagementsystemhomework\\repository\\interfaces\\ibranchrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|solutionrelative:creditmanagementsystemhomework\\repository\\interfaces\\ibranchrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditmanagementsystemhomework\\creditmanagementsystemhomework\\repository\\interfaces\\imercahntrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditsystem\\creditmanagementsystemhomework\\repository\\interfaces\\imercahntrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|solutionrelative:creditmanagementsystemhomework\\repository\\interfaces\\imercahntrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditmanagementsystemhomework\\creditmanagementsystemhomework\\repository\\implementation\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditsystem\\creditmanagementsystemhomework\\repository\\implementation\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|solutionrelative:creditmanagementsystemhomework\\repository\\implementation\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditmanagementsystemhomework\\creditmanagementsystemhomework\\repository\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditsystem\\creditmanagementsystemhomework\\repository\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|solutionrelative:creditmanagementsystemhomework\\repository\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditmanagementsystemhomework\\creditmanagementsystemhomework\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditsystem\\creditmanagementsystemhomework\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|solutionrelative:creditmanagementsystemhomework\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditmanagementsystemhomework\\creditmanagementsystemhomework\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditsystem\\creditmanagementsystemhomework\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|solutionrelative:creditmanagementsystemhomework\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditmanagementsystemhomework\\creditmanagementsystemhomework\\entities\\merchant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditsystem\\creditmanagementsystemhomework\\entities\\merchant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|solutionrelative:creditmanagementsystemhomework\\entities\\merchant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditmanagementsystemhomework\\creditmanagementsystemhomework\\entities\\loanitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditsystem\\creditmanagementsystemhomework\\entities\\loanitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|solutionrelative:creditmanagementsystemhomework\\entities\\loanitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditmanagementsystemhomework\\creditmanagementsystemhomework\\entities\\loandetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditsystem\\creditmanagementsystemhomework\\entities\\loandetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|solutionrelative:creditmanagementsystemhomework\\entities\\loandetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditmanagementsystemhomework\\creditmanagementsystemhomework\\entities\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditsystem\\creditmanagementsystemhomework\\entities\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|solutionrelative:creditmanagementsystemhomework\\entities\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditmanagementsystemhomework\\creditmanagementsystemhomework\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditsystem\\creditmanagementsystemhomework\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|solutionrelative:creditmanagementsystemhomework\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditmanagementsystemhomework\\creditmanagementsystemhomework\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditsystem\\creditmanagementsystemhomework\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|solutionrelative:creditmanagementsystemhomework\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditmanagementsystemhomework\\creditmanagementsystemhomework\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditsystem\\creditmanagementsystemhomework\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|solutionrelative:creditmanagementsystemhomework\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditmanagementsystemhomework\\creditmanagementsystemhomework\\entities\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditsystem\\creditmanagementsystemhomework\\entities\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|solutionrelative:creditmanagementsystemhomework\\entities\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditmanagementsystemhomework\\creditmanagementsystemhomework\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditsystem\\creditmanagementsystemhomework\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|solutionrelative:creditmanagementsystemhomework\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditmanagementsystemhomework\\creditmanagementsystemhomework\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|c:\\users\\ravan\\desktop\\mvc c#\\creditsystem\\creditmanagementsystemhomework\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A1D7D6E4-C0FF-4D13-8D40-5C0EB660AA62}|CreditManagementSystemHomework\\CreditManagementSystemHomework.csproj|solutionrelative:creditmanagementsystemhomework\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -170,58 +234,292 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CreditManagementSystemHomework\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CreditManagementSystemHomework\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T23:00:38.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Areas\\Admin\\Views\\Employee\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CreditManagementSystemHomework\\Areas\\Admin\\Views\\Employee\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Areas\\Admin\\Views\\Employee\\Delete.cshtml",
+              "RelativeToolTip": "CreditManagementSystemHomework\\Areas\\Admin\\Views\\Employee\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T22:56:23.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Areas\\Admin\\Views\\Employee\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CreditManagementSystemHomework\\Areas\\Admin\\Views\\Employee\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Areas\\Admin\\Views\\Employee\\Edit.cshtml",
+              "RelativeToolTip": "CreditManagementSystemHomework\\Areas\\Admin\\Views\\Employee\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T22:56:06.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Areas\\Admin\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "CreditManagementSystemHomework\\Areas\\Admin\\Views\\Employee\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Areas\\Admin\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "CreditManagementSystemHomework\\Areas\\Admin\\Views\\Employee\\Create.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAowDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T22:55:47.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Areas\\Admin\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "CreditManagementSystemHomework\\Areas\\Admin\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Areas\\Admin\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "CreditManagementSystemHomework\\Areas\\Admin\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAowCEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T22:54:17.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Areas\\Admin\\Views\\Branch\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CreditManagementSystemHomework\\Areas\\Admin\\Views\\Branch\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Areas\\Admin\\Views\\Branch\\Edit.cshtml",
+              "RelativeToolTip": "CreditManagementSystemHomework\\Areas\\Admin\\Views\\Branch\\Edit.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAowCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T22:35:08.486Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EmployeeController.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditManagementSystemHomework\\CreditManagementSystemHomework\\Areas\\Admin\\Controllers\\EmployeeController.cs",
-              "RelativeDocumentMoniker": "CreditManagementSystemHomework\\Areas\\Admin\\Controllers\\EmployeeController.cs",
-              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditManagementSystemHomework\\CreditManagementSystemHomework\\Areas\\Admin\\Controllers\\EmployeeController.cs",
-              "RelativeToolTip": "CreditManagementSystemHomework\\Areas\\Admin\\Controllers\\EmployeeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAvwD0AAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T22:07:24.592Z",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CreditManagementSystemHomework\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CreditManagementSystemHomework\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T22:04:07.077Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CreditManagementSystemHomework\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CreditManagementSystemHomework\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T21:56:02.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Areas\\Admin\\Views\\Branch\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CreditManagementSystemHomework\\Areas\\Admin\\Views\\Branch\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Areas\\Admin\\Views\\Branch\\Delete.cshtml",
+              "RelativeToolTip": "CreditManagementSystemHomework\\Areas\\Admin\\Views\\Branch\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T22:36:54.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Areas\\Admin\\Views\\Branch\\Create.cshtml",
+              "RelativeDocumentMoniker": "CreditManagementSystemHomework\\Areas\\Admin\\Views\\Branch\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Areas\\Admin\\Views\\Branch\\Create.cshtml",
+              "RelativeToolTip": "CreditManagementSystemHomework\\Areas\\Admin\\Views\\Branch\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T22:32:48.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Areas\\Admin\\Views\\Branch\\Index.cshtml",
+              "RelativeDocumentMoniker": "CreditManagementSystemHomework\\Areas\\Admin\\Views\\Branch\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Areas\\Admin\\Views\\Branch\\Index.cshtml",
+              "RelativeToolTip": "CreditManagementSystemHomework\\Areas\\Admin\\Views\\Branch\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T22:30:03.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Areas\\Admin\\Views\\Merchant\\Index.cshtml",
+              "RelativeDocumentMoniker": "CreditManagementSystemHomework\\Areas\\Admin\\Views\\Merchant\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Areas\\Admin\\Views\\Merchant\\Index.cshtml",
+              "RelativeToolTip": "CreditManagementSystemHomework\\Areas\\Admin\\Views\\Merchant\\Index.cshtml",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAADUAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T21:56:52.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "BranchController.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditManagementSystemHomework\\CreditManagementSystemHomework\\Areas\\Admin\\Controllers\\BranchController.cs",
+              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Areas\\Admin\\Controllers\\BranchController.cs",
               "RelativeDocumentMoniker": "CreditManagementSystemHomework\\Areas\\Admin\\Controllers\\BranchController.cs",
-              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditManagementSystemHomework\\CreditManagementSystemHomework\\Areas\\Admin\\Controllers\\BranchController.cs",
+              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Areas\\Admin\\Controllers\\BranchController.cs",
               "RelativeToolTip": "CreditManagementSystemHomework\\Areas\\Admin\\Controllers\\BranchController.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAA4wEMAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAQwDAAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-15T21:58:03.162Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Areas\\Admin\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "CreditManagementSystemHomework\\Areas\\Admin\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Areas\\Admin\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "CreditManagementSystemHomework\\Areas\\Admin\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T22:07:24.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeVM.cs",
+              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Models\\EmployeeVM.cs",
+              "RelativeDocumentMoniker": "CreditManagementSystemHomework\\Models\\EmployeeVM.cs",
+              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Models\\EmployeeVM.cs",
+              "RelativeToolTip": "CreditManagementSystemHomework\\Models\\EmployeeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T20:25:24.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Areas\\Admin\\Views\\Merchant\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CreditManagementSystemHomework\\Areas\\Admin\\Views\\Merchant\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Areas\\Admin\\Views\\Merchant\\Delete.cshtml",
+              "RelativeToolTip": "CreditManagementSystemHomework\\Areas\\Admin\\Views\\Merchant\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T22:26:34.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Areas\\Admin\\Views\\Merchant\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CreditManagementSystemHomework\\Areas\\Admin\\Views\\Merchant\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Areas\\Admin\\Views\\Merchant\\Edit.cshtml",
+              "RelativeToolTip": "CreditManagementSystemHomework\\Areas\\Admin\\Views\\Merchant\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T22:07:15.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "CreditManagementSystemHomework\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "CreditManagementSystemHomework\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T22:16:13.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "MerchantController.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditManagementSystemHomework\\CreditManagementSystemHomework\\Areas\\Admin\\Controllers\\MerchantController.cs",
+              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Areas\\Admin\\Controllers\\MerchantController.cs",
               "RelativeDocumentMoniker": "CreditManagementSystemHomework\\Areas\\Admin\\Controllers\\MerchantController.cs",
-              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditManagementSystemHomework\\CreditManagementSystemHomework\\Areas\\Admin\\Controllers\\MerchantController.cs",
+              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Areas\\Admin\\Controllers\\MerchantController.cs",
               "RelativeToolTip": "CreditManagementSystemHomework\\Areas\\Admin\\Controllers\\MerchantController.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAQwDsAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAgwDsAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-15T21:45:11.155Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 14,
+              "Title": "BranchVM.cs",
+              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Models\\BranchVM.cs",
+              "RelativeDocumentMoniker": "CreditManagementSystemHomework\\Models\\BranchVM.cs",
+              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Models\\BranchVM.cs",
+              "RelativeToolTip": "CreditManagementSystemHomework\\Models\\BranchVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T20:24:59.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Areas\\Admin\\Views\\Merchant\\Create.cshtml",
+              "RelativeDocumentMoniker": "CreditManagementSystemHomework\\Areas\\Admin\\Views\\Merchant\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Areas\\Admin\\Views\\Merchant\\Create.cshtml",
+              "RelativeToolTip": "CreditManagementSystemHomework\\Areas\\Admin\\Views\\Merchant\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T21:58:26.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditManagementSystemHomework\\CreditManagementSystemHomework\\ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\ScaffoldingReadMe.txt",
               "RelativeDocumentMoniker": "CreditManagementSystemHomework\\ScaffoldingReadMe.txt",
-              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditManagementSystemHomework\\CreditManagementSystemHomework\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\ScaffoldingReadMe.txt",
               "RelativeToolTip": "CreditManagementSystemHomework\\ScaffoldingReadMe.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
@@ -230,471 +528,413 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CustomServiceRegistration.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditManagementSystemHomework\\CreditManagementSystemHomework\\Extentions\\CustomServiceRegistration.cs",
-              "RelativeDocumentMoniker": "CreditManagementSystemHomework\\Extentions\\CustomServiceRegistration.cs",
-              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditManagementSystemHomework\\CreditManagementSystemHomework\\Extentions\\CustomServiceRegistration.cs",
-              "RelativeToolTip": "CreditManagementSystemHomework\\Extentions\\CustomServiceRegistration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T21:01:07.671Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CreditManagementDB.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditManagementSystemHomework\\CreditManagementSystemHomework\\Data\\CreditManagementDB.cs",
-              "RelativeDocumentMoniker": "CreditManagementSystemHomework\\Data\\CreditManagementDB.cs",
-              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditManagementSystemHomework\\CreditManagementSystemHomework\\Data\\CreditManagementDB.cs",
-              "RelativeToolTip": "CreditManagementSystemHomework\\Data\\CreditManagementDB.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T19:30:07.957Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CustomRepositoryRegistration.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditManagementSystemHomework\\CreditManagementSystemHomework\\Extentions\\CustomRepositoryRegistration.cs",
-              "RelativeDocumentMoniker": "CreditManagementSystemHomework\\Extentions\\CustomRepositoryRegistration.cs",
-              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditManagementSystemHomework\\CreditManagementSystemHomework\\Extentions\\CustomRepositoryRegistration.cs",
-              "RelativeToolTip": "CreditManagementSystemHomework\\Extentions\\CustomRepositoryRegistration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T20:58:59.653Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IGenericService.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditManagementSystemHomework\\CreditManagementSystemHomework\\Service\\Interface\\IGenericService.cs",
-              "RelativeDocumentMoniker": "CreditManagementSystemHomework\\Service\\Interface\\IGenericService.cs",
-              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditManagementSystemHomework\\CreditManagementSystemHomework\\Service\\Interface\\IGenericService.cs",
-              "RelativeToolTip": "CreditManagementSystemHomework\\Service\\Interface\\IGenericService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T20:12:52.345Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "EmployeeService.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditManagementSystemHomework\\CreditManagementSystemHomework\\Service\\Implementation\\EmployeeService.cs",
-              "RelativeDocumentMoniker": "CreditManagementSystemHomework\\Service\\Implementation\\EmployeeService.cs",
-              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditManagementSystemHomework\\CreditManagementSystemHomework\\Service\\Implementation\\EmployeeService.cs",
-              "RelativeToolTip": "CreditManagementSystemHomework\\Service\\Implementation\\EmployeeService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T20:54:18.842Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IEmployeeService.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditManagementSystemHomework\\CreditManagementSystemHomework\\Service\\Interface\\IEmployeeService.cs",
-              "RelativeDocumentMoniker": "CreditManagementSystemHomework\\Service\\Interface\\IEmployeeService.cs",
-              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditManagementSystemHomework\\CreditManagementSystemHomework\\Service\\Interface\\IEmployeeService.cs",
-              "RelativeToolTip": "CreditManagementSystemHomework\\Service\\Interface\\IEmployeeService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T20:53:35.706Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 21,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditManagementSystemHomework\\CreditManagementSystemHomework\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Program.cs",
               "RelativeDocumentMoniker": "CreditManagementSystemHomework\\Program.cs",
-              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditManagementSystemHomework\\CreditManagementSystemHomework\\Program.cs",
+              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Program.cs",
               "RelativeToolTip": "CreditManagementSystemHomework\\Program.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAgwC0AAABRAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBkAAABeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-15T19:31:49.038Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "GenericService.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditManagementSystemHomework\\CreditManagementSystemHomework\\Service\\Implementation\\GenericService.cs",
-              "RelativeDocumentMoniker": "CreditManagementSystemHomework\\Service\\Implementation\\GenericService.cs",
-              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditManagementSystemHomework\\CreditManagementSystemHomework\\Service\\Implementation\\GenericService.cs",
-              "RelativeToolTip": "CreditManagementSystemHomework\\Service\\Implementation\\GenericService.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAuwCoAAAA2AAAAAAAAAA==",
+              "DocumentIndex": 27,
+              "Title": "CustomServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Extentions\\CustomServiceRegistration.cs",
+              "RelativeDocumentMoniker": "CreditManagementSystemHomework\\Extentions\\CustomServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Extentions\\CustomServiceRegistration.cs",
+              "RelativeToolTip": "CreditManagementSystemHomework\\Extentions\\CustomServiceRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T20:13:40.365Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-15T21:01:07.671Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "BranchService.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditManagementSystemHomework\\CreditManagementSystemHomework\\Service\\Implementation\\BranchService.cs",
-              "RelativeDocumentMoniker": "CreditManagementSystemHomework\\Service\\Implementation\\BranchService.cs",
-              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditManagementSystemHomework\\CreditManagementSystemHomework\\Service\\Implementation\\BranchService.cs",
-              "RelativeToolTip": "CreditManagementSystemHomework\\Service\\Implementation\\BranchService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 24,
+              "Title": "CreditManagementDB.cs",
+              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Data\\CreditManagementDB.cs",
+              "RelativeDocumentMoniker": "CreditManagementSystemHomework\\Data\\CreditManagementDB.cs",
+              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Data\\CreditManagementDB.cs",
+              "RelativeToolTip": "CreditManagementSystemHomework\\Data\\CreditManagementDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T20:52:13.041Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-15T19:30:07.957Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "IBranchService.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditManagementSystemHomework\\CreditManagementSystemHomework\\Service\\Interface\\IBranchService.cs",
-              "RelativeDocumentMoniker": "CreditManagementSystemHomework\\Service\\Interface\\IBranchService.cs",
-              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditManagementSystemHomework\\CreditManagementSystemHomework\\Service\\Interface\\IBranchService.cs",
-              "RelativeToolTip": "CreditManagementSystemHomework\\Service\\Interface\\IBranchService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T20:50:52.221Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "MerchantService.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditManagementSystemHomework\\CreditManagementSystemHomework\\Service\\Implementation\\MerchantService.cs",
-              "RelativeDocumentMoniker": "CreditManagementSystemHomework\\Service\\Implementation\\MerchantService.cs",
-              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditManagementSystemHomework\\CreditManagementSystemHomework\\Service\\Implementation\\MerchantService.cs",
-              "RelativeToolTip": "CreditManagementSystemHomework\\Service\\Implementation\\MerchantService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T20:44:22.841Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "IMerchantService.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditManagementSystemHomework\\CreditManagementSystemHomework\\Service\\Interface\\IMerchantService.cs",
-              "RelativeDocumentMoniker": "CreditManagementSystemHomework\\Service\\Interface\\IMerchantService.cs",
-              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditManagementSystemHomework\\CreditManagementSystemHomework\\Service\\Interface\\IMerchantService.cs",
-              "RelativeToolTip": "CreditManagementSystemHomework\\Service\\Interface\\IMerchantService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T20:42:41.797Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "CustomProfile.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditManagementSystemHomework\\CreditManagementSystemHomework\\Profiles\\CustomProfile.cs",
-              "RelativeDocumentMoniker": "CreditManagementSystemHomework\\Profiles\\CustomProfile.cs",
-              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditManagementSystemHomework\\CreditManagementSystemHomework\\Profiles\\CustomProfile.cs",
-              "RelativeToolTip": "CreditManagementSystemHomework\\Profiles\\CustomProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T20:29:55.978Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "EmployeeVM.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditManagementSystemHomework\\CreditManagementSystemHomework\\Models\\EmployeeVM.cs",
-              "RelativeDocumentMoniker": "CreditManagementSystemHomework\\Models\\EmployeeVM.cs",
-              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditManagementSystemHomework\\CreditManagementSystemHomework\\Models\\EmployeeVM.cs",
-              "RelativeToolTip": "CreditManagementSystemHomework\\Models\\EmployeeVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T20:25:24.131Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "BranchVM.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditManagementSystemHomework\\CreditManagementSystemHomework\\Models\\BranchVM.cs",
-              "RelativeDocumentMoniker": "CreditManagementSystemHomework\\Models\\BranchVM.cs",
-              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditManagementSystemHomework\\CreditManagementSystemHomework\\Models\\BranchVM.cs",
-              "RelativeToolTip": "CreditManagementSystemHomework\\Models\\BranchVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T20:24:59.331Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 23,
               "Title": "MerchantVM.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditManagementSystemHomework\\CreditManagementSystemHomework\\Models\\MerchantVM.cs",
+              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Models\\MerchantVM.cs",
               "RelativeDocumentMoniker": "CreditManagementSystemHomework\\Models\\MerchantVM.cs",
-              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditManagementSystemHomework\\CreditManagementSystemHomework\\Models\\MerchantVM.cs",
+              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Models\\MerchantVM.cs",
               "RelativeToolTip": "CreditManagementSystemHomework\\Models\\MerchantVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-15T20:23:46.428Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "EmployeeRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditManagementSystemHomework\\CreditManagementSystemHomework\\Repository\\Implementation\\EmployeeRepository.cs",
-              "RelativeDocumentMoniker": "CreditManagementSystemHomework\\Repository\\Implementation\\EmployeeRepository.cs",
-              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditManagementSystemHomework\\CreditManagementSystemHomework\\Repository\\Implementation\\EmployeeRepository.cs",
-              "RelativeToolTip": "CreditManagementSystemHomework\\Repository\\Implementation\\EmployeeRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAnAAAAAAAAAA==",
+              "DocumentIndex": 28,
+              "Title": "CustomRepositoryRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Extentions\\CustomRepositoryRegistration.cs",
+              "RelativeDocumentMoniker": "CreditManagementSystemHomework\\Extentions\\CustomRepositoryRegistration.cs",
+              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Extentions\\CustomRepositoryRegistration.cs",
+              "RelativeToolTip": "CreditManagementSystemHomework\\Extentions\\CustomRepositoryRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T20:07:24.522Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "BranchRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditManagementSystemHomework\\CreditManagementSystemHomework\\Repository\\Implementation\\BranchRepository.cs",
-              "RelativeDocumentMoniker": "CreditManagementSystemHomework\\Repository\\Implementation\\BranchRepository.cs",
-              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditManagementSystemHomework\\CreditManagementSystemHomework\\Repository\\Implementation\\BranchRepository.cs",
-              "RelativeToolTip": "CreditManagementSystemHomework\\Repository\\Implementation\\BranchRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T20:04:19.493Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "MerchantRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditManagementSystemHomework\\CreditManagementSystemHomework\\Repository\\Implementation\\MerchantRepository.cs",
-              "RelativeDocumentMoniker": "CreditManagementSystemHomework\\Repository\\Implementation\\MerchantRepository.cs",
-              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditManagementSystemHomework\\CreditManagementSystemHomework\\Repository\\Implementation\\MerchantRepository.cs",
-              "RelativeToolTip": "CreditManagementSystemHomework\\Repository\\Implementation\\MerchantRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T20:02:21.601Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "IEmployeeRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditManagementSystemHomework\\CreditManagementSystemHomework\\Repository\\Interfaces\\IEmployeeRepository.cs",
-              "RelativeDocumentMoniker": "CreditManagementSystemHomework\\Repository\\Interfaces\\IEmployeeRepository.cs",
-              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditManagementSystemHomework\\CreditManagementSystemHomework\\Repository\\Interfaces\\IEmployeeRepository.cs",
-              "RelativeToolTip": "CreditManagementSystemHomework\\Repository\\Interfaces\\IEmployeeRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T20:01:17.108Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "IBranchRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditManagementSystemHomework\\CreditManagementSystemHomework\\Repository\\Interfaces\\IBranchRepository.cs",
-              "RelativeDocumentMoniker": "CreditManagementSystemHomework\\Repository\\Interfaces\\IBranchRepository.cs",
-              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditManagementSystemHomework\\CreditManagementSystemHomework\\Repository\\Interfaces\\IBranchRepository.cs",
-              "RelativeToolTip": "CreditManagementSystemHomework\\Repository\\Interfaces\\IBranchRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T20:00:07.541Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-15T20:58:59.653Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 25,
-              "Title": "IMercahntRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditManagementSystemHomework\\CreditManagementSystemHomework\\Repository\\Interfaces\\IMercahntRepository.cs",
-              "RelativeDocumentMoniker": "CreditManagementSystemHomework\\Repository\\Interfaces\\IMercahntRepository.cs",
-              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditManagementSystemHomework\\CreditManagementSystemHomework\\Repository\\Interfaces\\IMercahntRepository.cs",
-              "RelativeToolTip": "CreditManagementSystemHomework\\Repository\\Interfaces\\IMercahntRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Title": "IGenericService.cs",
+              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Service\\Interface\\IGenericService.cs",
+              "RelativeDocumentMoniker": "CreditManagementSystemHomework\\Service\\Interface\\IGenericService.cs",
+              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Service\\Interface\\IGenericService.cs",
+              "RelativeToolTip": "CreditManagementSystemHomework\\Service\\Interface\\IGenericService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T19:59:27.563Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "Loan.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditManagementSystemHomework\\CreditManagementSystemHomework\\Entities\\Loan.cs",
-              "RelativeDocumentMoniker": "CreditManagementSystemHomework\\Entities\\Loan.cs",
-              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditManagementSystemHomework\\CreditManagementSystemHomework\\Entities\\Loan.cs",
-              "RelativeToolTip": "CreditManagementSystemHomework\\Entities\\Loan.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T19:22:31.483Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "LoanDetail.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditManagementSystemHomework\\CreditManagementSystemHomework\\Entities\\LoanDetail.cs",
-              "RelativeDocumentMoniker": "CreditManagementSystemHomework\\Entities\\LoanDetail.cs",
-              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditManagementSystemHomework\\CreditManagementSystemHomework\\Entities\\LoanDetail.cs",
-              "RelativeToolTip": "CreditManagementSystemHomework\\Entities\\LoanDetail.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T19:22:50.746Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "LoanItem.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditManagementSystemHomework\\CreditManagementSystemHomework\\Entities\\LoanItem.cs",
-              "RelativeDocumentMoniker": "CreditManagementSystemHomework\\Entities\\LoanItem.cs",
-              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditManagementSystemHomework\\CreditManagementSystemHomework\\Entities\\LoanItem.cs",
-              "RelativeToolTip": "CreditManagementSystemHomework\\Entities\\LoanItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T19:23:12.695Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "Merchant.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditManagementSystemHomework\\CreditManagementSystemHomework\\Entities\\Merchant.cs",
-              "RelativeDocumentMoniker": "CreditManagementSystemHomework\\Entities\\Merchant.cs",
-              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditManagementSystemHomework\\CreditManagementSystemHomework\\Entities\\Merchant.cs",
-              "RelativeToolTip": "CreditManagementSystemHomework\\Entities\\Merchant.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T19:20:17.699Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "Payment.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditManagementSystemHomework\\CreditManagementSystemHomework\\Entities\\Payment.cs",
-              "RelativeDocumentMoniker": "CreditManagementSystemHomework\\Entities\\Payment.cs",
-              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditManagementSystemHomework\\CreditManagementSystemHomework\\Entities\\Payment.cs",
-              "RelativeToolTip": "CreditManagementSystemHomework\\Entities\\Payment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T19:23:33.647Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-15T20:12:52.345Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 29,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditManagementSystemHomework\\CreditManagementSystemHomework\\Entities\\Product.cs",
-              "RelativeDocumentMoniker": "CreditManagementSystemHomework\\Entities\\Product.cs",
-              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditManagementSystemHomework\\CreditManagementSystemHomework\\Entities\\Product.cs",
-              "RelativeToolTip": "CreditManagementSystemHomework\\Entities\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Service\\Implementation\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "CreditManagementSystemHomework\\Service\\Implementation\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Service\\Implementation\\EmployeeService.cs",
+              "RelativeToolTip": "CreditManagementSystemHomework\\Service\\Implementation\\EmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T19:24:03.039Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-15T20:54:18.842Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "IGenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditManagementSystemHomework\\CreditManagementSystemHomework\\Repository\\Interfaces\\IGenericRepository.cs",
-              "RelativeDocumentMoniker": "CreditManagementSystemHomework\\Repository\\Interfaces\\IGenericRepository.cs",
-              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditManagementSystemHomework\\CreditManagementSystemHomework\\Repository\\Interfaces\\IGenericRepository.cs",
-              "RelativeToolTip": "CreditManagementSystemHomework\\Repository\\Interfaces\\IGenericRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 30,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Service\\Interface\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "CreditManagementSystemHomework\\Service\\Interface\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Service\\Interface\\IEmployeeService.cs",
+              "RelativeToolTip": "CreditManagementSystemHomework\\Service\\Interface\\IEmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T19:38:20.341Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-15T20:53:35.706Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 26,
-              "Title": "GenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditManagementSystemHomework\\CreditManagementSystemHomework\\Repository\\Implementation\\GenericRepository.cs",
-              "RelativeDocumentMoniker": "CreditManagementSystemHomework\\Repository\\Implementation\\GenericRepository.cs",
-              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditManagementSystemHomework\\CreditManagementSystemHomework\\Repository\\Implementation\\GenericRepository.cs",
-              "RelativeToolTip": "CreditManagementSystemHomework\\Repository\\Implementation\\GenericRepository.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAxwCAAAAAJAAAAAAAAAA==",
+              "Title": "GenericService.cs",
+              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Service\\Implementation\\GenericService.cs",
+              "RelativeDocumentMoniker": "CreditManagementSystemHomework\\Service\\Implementation\\GenericService.cs",
+              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Service\\Implementation\\GenericService.cs",
+              "RelativeToolTip": "CreditManagementSystemHomework\\Service\\Implementation\\GenericService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAuwCoAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T19:39:21.874Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-15T20:13:40.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BranchService.cs",
+              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Service\\Implementation\\BranchService.cs",
+              "RelativeDocumentMoniker": "CreditManagementSystemHomework\\Service\\Implementation\\BranchService.cs",
+              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Service\\Implementation\\BranchService.cs",
+              "RelativeToolTip": "CreditManagementSystemHomework\\Service\\Implementation\\BranchService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T20:52:13.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IBranchService.cs",
+              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Service\\Interface\\IBranchService.cs",
+              "RelativeDocumentMoniker": "CreditManagementSystemHomework\\Service\\Interface\\IBranchService.cs",
+              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Service\\Interface\\IBranchService.cs",
+              "RelativeToolTip": "CreditManagementSystemHomework\\Service\\Interface\\IBranchService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T20:50:52.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "MerchantService.cs",
+              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Service\\Implementation\\MerchantService.cs",
+              "RelativeDocumentMoniker": "CreditManagementSystemHomework\\Service\\Implementation\\MerchantService.cs",
+              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Service\\Implementation\\MerchantService.cs",
+              "RelativeToolTip": "CreditManagementSystemHomework\\Service\\Implementation\\MerchantService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T20:44:22.841Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 34,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditManagementSystemHomework\\CreditManagementSystemHomework\\Entities\\Employee.cs",
-              "RelativeDocumentMoniker": "CreditManagementSystemHomework\\Entities\\Employee.cs",
-              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditManagementSystemHomework\\CreditManagementSystemHomework\\Entities\\Employee.cs",
-              "RelativeToolTip": "CreditManagementSystemHomework\\Entities\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Title": "IMerchantService.cs",
+              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Service\\Interface\\IMerchantService.cs",
+              "RelativeDocumentMoniker": "CreditManagementSystemHomework\\Service\\Interface\\IMerchantService.cs",
+              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Service\\Interface\\IMerchantService.cs",
+              "RelativeToolTip": "CreditManagementSystemHomework\\Service\\Interface\\IMerchantService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T19:22:09.771Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-15T20:42:41.797Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 35,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditManagementSystemHomework\\CreditManagementSystemHomework\\Entities\\Customer.cs",
-              "RelativeDocumentMoniker": "CreditManagementSystemHomework\\Entities\\Customer.cs",
-              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditManagementSystemHomework\\CreditManagementSystemHomework\\Entities\\Customer.cs",
-              "RelativeToolTip": "CreditManagementSystemHomework\\Entities\\Customer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Title": "CustomProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Profiles\\CustomProfile.cs",
+              "RelativeDocumentMoniker": "CreditManagementSystemHomework\\Profiles\\CustomProfile.cs",
+              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Profiles\\CustomProfile.cs",
+              "RelativeToolTip": "CreditManagementSystemHomework\\Profiles\\CustomProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T19:21:47.492Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-15T20:29:55.978Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 36,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditManagementSystemHomework\\CreditManagementSystemHomework\\Entities\\Category.cs",
-              "RelativeDocumentMoniker": "CreditManagementSystemHomework\\Entities\\Category.cs",
-              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditManagementSystemHomework\\CreditManagementSystemHomework\\Entities\\Category.cs",
-              "RelativeToolTip": "CreditManagementSystemHomework\\Entities\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Repository\\Implementation\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "CreditManagementSystemHomework\\Repository\\Implementation\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Repository\\Implementation\\EmployeeRepository.cs",
+              "RelativeToolTip": "CreditManagementSystemHomework\\Repository\\Implementation\\EmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T19:21:27.097Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-15T20:07:24.522Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 37,
-              "Title": "Branch.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditManagementSystemHomework\\CreditManagementSystemHomework\\Entities\\Branch.cs",
-              "RelativeDocumentMoniker": "CreditManagementSystemHomework\\Entities\\Branch.cs",
-              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditManagementSystemHomework\\CreditManagementSystemHomework\\Entities\\Branch.cs",
-              "RelativeToolTip": "CreditManagementSystemHomework\\Entities\\Branch.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Title": "BranchRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Repository\\Implementation\\BranchRepository.cs",
+              "RelativeDocumentMoniker": "CreditManagementSystemHomework\\Repository\\Implementation\\BranchRepository.cs",
+              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Repository\\Implementation\\BranchRepository.cs",
+              "RelativeToolTip": "CreditManagementSystemHomework\\Repository\\Implementation\\BranchRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T19:20:51.806Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-15T20:04:19.493Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 38,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditManagementSystemHomework\\CreditManagementSystemHomework\\Entities\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "CreditManagementSystemHomework\\Entities\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditManagementSystemHomework\\CreditManagementSystemHomework\\Entities\\BaseEntity.cs",
-              "RelativeToolTip": "CreditManagementSystemHomework\\Entities\\BaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Title": "MerchantRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Repository\\Implementation\\MerchantRepository.cs",
+              "RelativeDocumentMoniker": "CreditManagementSystemHomework\\Repository\\Implementation\\MerchantRepository.cs",
+              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Repository\\Implementation\\MerchantRepository.cs",
+              "RelativeToolTip": "CreditManagementSystemHomework\\Repository\\Implementation\\MerchantRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T19:19:46.069Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-15T20:02:21.601Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 39,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Repository\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "CreditManagementSystemHomework\\Repository\\Interfaces\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Repository\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeToolTip": "CreditManagementSystemHomework\\Repository\\Interfaces\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T20:01:17.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IBranchRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Repository\\Interfaces\\IBranchRepository.cs",
+              "RelativeDocumentMoniker": "CreditManagementSystemHomework\\Repository\\Interfaces\\IBranchRepository.cs",
+              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Repository\\Interfaces\\IBranchRepository.cs",
+              "RelativeToolTip": "CreditManagementSystemHomework\\Repository\\Interfaces\\IBranchRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T20:00:07.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IMercahntRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Repository\\Interfaces\\IMercahntRepository.cs",
+              "RelativeDocumentMoniker": "CreditManagementSystemHomework\\Repository\\Interfaces\\IMercahntRepository.cs",
+              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Repository\\Interfaces\\IMercahntRepository.cs",
+              "RelativeToolTip": "CreditManagementSystemHomework\\Repository\\Interfaces\\IMercahntRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T19:59:27.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Loan.cs",
+              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Entities\\Loan.cs",
+              "RelativeDocumentMoniker": "CreditManagementSystemHomework\\Entities\\Loan.cs",
+              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Entities\\Loan.cs",
+              "RelativeToolTip": "CreditManagementSystemHomework\\Entities\\Loan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T19:22:31.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "LoanDetail.cs",
+              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Entities\\LoanDetail.cs",
+              "RelativeDocumentMoniker": "CreditManagementSystemHomework\\Entities\\LoanDetail.cs",
+              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Entities\\LoanDetail.cs",
+              "RelativeToolTip": "CreditManagementSystemHomework\\Entities\\LoanDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T19:22:50.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "LoanItem.cs",
+              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Entities\\LoanItem.cs",
+              "RelativeDocumentMoniker": "CreditManagementSystemHomework\\Entities\\LoanItem.cs",
+              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Entities\\LoanItem.cs",
+              "RelativeToolTip": "CreditManagementSystemHomework\\Entities\\LoanItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T19:23:12.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Merchant.cs",
+              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Entities\\Merchant.cs",
+              "RelativeDocumentMoniker": "CreditManagementSystemHomework\\Entities\\Merchant.cs",
+              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Entities\\Merchant.cs",
+              "RelativeToolTip": "CreditManagementSystemHomework\\Entities\\Merchant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T19:20:17.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Entities\\Payment.cs",
+              "RelativeDocumentMoniker": "CreditManagementSystemHomework\\Entities\\Payment.cs",
+              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Entities\\Payment.cs",
+              "RelativeToolTip": "CreditManagementSystemHomework\\Entities\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T19:23:33.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "CreditManagementSystemHomework\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Entities\\Product.cs",
+              "RelativeToolTip": "CreditManagementSystemHomework\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T19:24:03.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Repository\\Interfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "CreditManagementSystemHomework\\Repository\\Interfaces\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Repository\\Interfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "CreditManagementSystemHomework\\Repository\\Interfaces\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T19:38:20.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Repository\\Implementation\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "CreditManagementSystemHomework\\Repository\\Implementation\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Repository\\Implementation\\GenericRepository.cs",
+              "RelativeToolTip": "CreditManagementSystemHomework\\Repository\\Implementation\\GenericRepository.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAxwCAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T19:39:21.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "CreditManagementSystemHomework\\Entities\\Employee.cs",
+              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Entities\\Employee.cs",
+              "RelativeToolTip": "CreditManagementSystemHomework\\Entities\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T19:22:09.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "CreditManagementSystemHomework\\Entities\\Customer.cs",
+              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Entities\\Customer.cs",
+              "RelativeToolTip": "CreditManagementSystemHomework\\Entities\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T19:21:47.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "CreditManagementSystemHomework\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Entities\\Category.cs",
+              "RelativeToolTip": "CreditManagementSystemHomework\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T19:21:27.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Branch.cs",
+              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Entities\\Branch.cs",
+              "RelativeDocumentMoniker": "CreditManagementSystemHomework\\Entities\\Branch.cs",
+              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Entities\\Branch.cs",
+              "RelativeToolTip": "CreditManagementSystemHomework\\Entities\\Branch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T19:20:51.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "CreditManagementSystemHomework\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "CreditManagementSystemHomework\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T19:19:46.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
               "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditManagementSystemHomework\\CreditManagementSystemHomework\\appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\appsettings.Development.json",
               "RelativeDocumentMoniker": "CreditManagementSystemHomework\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditManagementSystemHomework\\CreditManagementSystemHomework\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\appsettings.Development.json",
               "RelativeToolTip": "CreditManagementSystemHomework\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-15T19:31:15.726Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-15T19:31:15.726Z"
             }
           ]
         }
