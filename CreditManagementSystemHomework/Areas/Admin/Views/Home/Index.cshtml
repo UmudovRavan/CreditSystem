@@ -8,7 +8,7 @@
 <p>Choose an action below to manage entities:</p>
 
 <div class="row">
-    <div class="col-md-4">
+    <div class="col-md-3">
         <div class="card border-primary mb-3" style="max-width: 18rem;">
             <div class="card-header bg-primary text-white">Merchant</div>
             <div class="card-body">
@@ -20,7 +20,7 @@
         </div>
     </div>
 
-    <div class="col-md-4">
+    <div class="col-md-3">
         <div class="card border-success mb-3" style="max-width: 18rem;">
             <div class="card-header bg-success text-white">Branch</div>
             <div class="card-body">
@@ -32,7 +32,7 @@
         </div>
     </div>
 
-    <div class="col-md-4">
+    <div class="col-md-3">
         <div class="card border-info mb-3" style="max-width: 18rem;">
             <div class="card-header bg-info text-white">Employee</div>
             <div class="card-body">
@@ -43,4 +43,28 @@
             </div>
         </div>
     </div>
+
+    <div class="col-md-3">
+        <div class="card border-warning mb-3" style="max-width: 18rem;">
+            <div class="card-header bg-warning text-dark">Category</div>
+            <div class="card-body">
+                <h5 class="card-title">Manage Categories</h5>
+                <p class="card-text">Add new categories or view existing ones.</p>
+                <a asp-area="Admin" asp-controller="Category" asp-action="Index" class="btn btn-warning text-white">Go to Categories</a>
+                <a asp-area="Admin" asp-controller="Category" asp-action="Create" class="btn btn-primary mt-2">Add New Category</a>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-3">
+        <div class="card border-danger mb-3" style="max-width: 18rem;">
+            <div class="card-header bg-danger text-white">Product</div>
+            <div class="card-body">
+                <h5 class="card-title">Manage Products</h5>
+                <p class="card-text">Add new products or view existing ones.</p>
+                <a asp-area="Admin" asp-controller="Product" asp-action="Index" class="btn btn-danger">Go to Products</a>
+                <a asp-area="Admin" asp-controller="Product" asp-action="Add" class="btn btn-primary mt-2">Add New Product</a>
+            </div>
+        </div>
+    </div>
+
 </div>

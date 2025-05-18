@@ -20,6 +20,7 @@ namespace CreditManagementSystemHomework.Areas.Admin.Controllers
         }
         public async Task<IActionResult> Index()
         {
+
             var employee = await _employeeService.GetAllAsync();
             return View(employee);
         }

@@ -54,6 +54,78 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.ico'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\5941fbcc-486b-47f8-a6ce-60aa379e360c.jpeg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>CreditManagementSystemHomework</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/CreditManagementSystemHomework</BasePath>
+      <RelativePath>images/products/5941fbcc-486b-47f8-a6ce-60aa379e360c.jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>fta5cmrg6r</Fingerprint>
+      <Integrity>/eWBAJrCUfjDOr9TKUo/xqFoH1qWRF7c0qAY4koVYUs=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\5941fbcc-486b-47f8-a6ce-60aa379e360c.jpeg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\814aa662-be06-4790-b4bc-8bd0554d3b4e.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>CreditManagementSystemHomework</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/CreditManagementSystemHomework</BasePath>
+      <RelativePath>images/products/814aa662-be06-4790-b4bc-8bd0554d3b4e.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>dcazypge8m</Fingerprint>
+      <Integrity>HQVDSBxL07gpB+0Z7VRv8i7sJVbiu7KGFWsQvkQpWqQ=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\814aa662-be06-4790-b4bc-8bd0554d3b4e.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\b7eb38a0-a049-4975-8fb2-74a409be45ae.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>CreditManagementSystemHomework</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/CreditManagementSystemHomework</BasePath>
+      <RelativePath>images/products/b7eb38a0-a049-4975-8fb2-74a409be45ae.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>pr4tsle1gw</Fingerprint>
+      <Integrity>mxL9zW0iwoO5h6PzXtW9jJXgnwI0dx4PyB7gpXCe7rI=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\b7eb38a0-a049-4975-8fb2-74a409be45ae.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\fb9cab05-d990-4027-9ea7-2e8ce8606820.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>CreditManagementSystemHomework</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/CreditManagementSystemHomework</BasePath>
+      <RelativePath>images/products/fb9cab05-d990-4027-9ea7-2e8ce8606820.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>ptjn3i9ywg</Fingerprint>
+      <Integrity>HT/ZU0n1mxRY1XWJA5cbUkGW6u/pv0ew3Q5eqvqJCJw=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\fb9cab05-d990-4027-9ea7-2e8ce8606820.png'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))">
       <SourceType>Package</SourceType>
       <SourceId>CreditManagementSystemHomework</SourceId>

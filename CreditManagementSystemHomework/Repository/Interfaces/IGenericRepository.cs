@@ -1,4 +1,6 @@
 ﻿using CreditManagementSystemHomework.Entities;
+using System.Collections.Generic;
+using System.Threading.Tasks;
 
 namespace CreditManagementSystemHomework.Repository.Interfaces
 {
@@ -9,5 +11,7 @@ namespace CreditManagementSystemHomework.Repository.Interfaces
         Task<TEntity> AddAsync(TEntity entity);
         Task<TEntity> UpdateAsync(TEntity entity);
         Task<bool> DeleteAsync(int id);
+
+        Task<int> SaveChangesAsync(); // SaveChanges buraya əlavə olunur
     }
 }

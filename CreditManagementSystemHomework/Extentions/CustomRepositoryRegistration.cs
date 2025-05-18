@@ -10,6 +10,8 @@ namespace CreditManagementSystemHomework.Extentions
             services.AddScoped<IMercahntRepository,MerchantRepository>();
             services.AddScoped<IBranchRepository,BranchRepository>();
             services.AddScoped<IEmployeeRepository,EmployeeRepository>();
+            services.AddScoped<ICategoryRepository, CategoryRepository>();
+            services.AddScoped<IProductRepository, ProductRepository>();
         }
     }
 }

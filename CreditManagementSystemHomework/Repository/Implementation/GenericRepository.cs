@@ -2,6 +2,10 @@
 using CreditManagementSystemHomework.Entities;
 using CreditManagementSystemHomework.Repository.Interfaces;
 using Microsoft.EntityFrameworkCore;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
 
 namespace CreditManagementSystemHomework.Repository.Implementation
 {
@@ -15,20 +19,24 @@ namespace CreditManagementSystemHomework.Repository.Implementation
             _context = context;
             _dbSet = _context.Set<TEntity>();
         }
+
         public async Task<TEntity> AddAsync(TEntity entity)
         {
             await _dbSet.AddAsync(entity);
-            await _context.SaveChangesAsync();
+            // SaveChangesAsync burada yoxdur, service səviyyəsində çağırılacaq
             return entity;
         }
 
         public async Task<bool> DeleteAsync(int id)
         {
             var entity = await _dbSet.FindAsync(id);
-            if (entity == null) { return false; }
+            if (entity == null)
+            {
+                return false;
+            }
 
             _dbSet.Remove(entity);
-            await _context.SaveChangesAsync();
+            // SaveChangesAsync burada yoxdur, service səviyyəsində çağırılacaq
             return true;
         }
 
@@ -40,17 +48,21 @@ namespace CreditManagementSystemHomework.Repository.Implementation
 
         public async Task<TEntity> GetByIdAsync(int id)
         {
-            await _dbSet.FindAsync(id);
-            var entities = await _dbSet.AsNoTracking().FirstOrDefaultAsync(e => e.Id == id && !e.IsDeleted);
-            return entities;
+            var entity = await _dbSet.AsNoTracking().FirstOrDefaultAsync(e => e.Id == id && !e.IsDeleted);
+            return entity;
         }
 
         public async Task<TEntity> UpdateAsync(TEntity entity)
         {
             entity.UpdatedDate = DateTime.Now;
             _dbSet.Update(entity);
-            await _context.SaveChangesAsync();
+            // SaveChangesAsync burada yoxdur, service səviyyəsində çağırılacaq
             return entity;
+        }
+
+        public async Task<int> SaveChangesAsync()
+        {
+            return await _context.SaveChangesAsync();
         }
     }
 }

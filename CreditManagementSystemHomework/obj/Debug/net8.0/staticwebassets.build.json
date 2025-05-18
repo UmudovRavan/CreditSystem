@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "kXw28M0gGNU2i7b70HXiSV6VkBnyW6BqRC+Ibduf6Zo=",
+  "Hash": "S/7CLQ0kmdZGZIpFAFQzH6iVrXWDMUjoJzPw0EDMVS8=",
   "Source": "CreditManagementSystemHomework",
   "BasePath": "_content/CreditManagementSystemHomework",
   "Mode": "Default",
@@ -99,6 +99,90 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\wwwroot\\images\\products\\5941fbcc-486b-47f8-a6ce-60aa379e360c.jpeg",
+      "SourceId": "CreditManagementSystemHomework",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\wwwroot\\",
+      "BasePath": "_content/CreditManagementSystemHomework",
+      "RelativePath": "images/products/5941fbcc-486b-47f8-a6ce-60aa379e360c#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fta5cmrg6r",
+      "Integrity": "/eWBAJrCUfjDOr9TKUo/xqFoH1qWRF7c0qAY4koVYUs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\5941fbcc-486b-47f8-a6ce-60aa379e360c.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\wwwroot\\images\\products\\814aa662-be06-4790-b4bc-8bd0554d3b4e.png",
+      "SourceId": "CreditManagementSystemHomework",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\wwwroot\\",
+      "BasePath": "_content/CreditManagementSystemHomework",
+      "RelativePath": "images/products/814aa662-be06-4790-b4bc-8bd0554d3b4e#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dcazypge8m",
+      "Integrity": "HQVDSBxL07gpB+0Z7VRv8i7sJVbiu7KGFWsQvkQpWqQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\814aa662-be06-4790-b4bc-8bd0554d3b4e.png"
+    },
+    {
+      "Identity": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\wwwroot\\images\\products\\b7eb38a0-a049-4975-8fb2-74a409be45ae.png",
+      "SourceId": "CreditManagementSystemHomework",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\wwwroot\\",
+      "BasePath": "_content/CreditManagementSystemHomework",
+      "RelativePath": "images/products/b7eb38a0-a049-4975-8fb2-74a409be45ae#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pr4tsle1gw",
+      "Integrity": "mxL9zW0iwoO5h6PzXtW9jJXgnwI0dx4PyB7gpXCe7rI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\b7eb38a0-a049-4975-8fb2-74a409be45ae.png"
+    },
+    {
+      "Identity": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\wwwroot\\images\\products\\fb9cab05-d990-4027-9ea7-2e8ce8606820.png",
+      "SourceId": "CreditManagementSystemHomework",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\wwwroot\\",
+      "BasePath": "_content/CreditManagementSystemHomework",
+      "RelativePath": "images/products/fb9cab05-d990-4027-9ea7-2e8ce8606820#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ptjn3i9ywg",
+      "Integrity": "HT/ZU0n1mxRY1XWJA5cbUkGW6u/pv0ew3Q5eqvqJCJw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\fb9cab05-d990-4027-9ea7-2e8ce8606820.png"
     },
     {
       "Identity": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\wwwroot\\js\\site.js",
@@ -1645,6 +1729,334 @@
         {
           "Name": "integrity",
           "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/5941fbcc-486b-47f8-a6ce-60aa379e360c.fta5cmrg6r.jpeg",
+      "AssetFile": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\wwwroot\\images\\products\\5941fbcc-486b-47f8-a6ce-60aa379e360c.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5551"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/eWBAJrCUfjDOr9TKUo/xqFoH1qWRF7c0qAY4koVYUs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 18 May 2025 19:17:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fta5cmrg6r"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/5941fbcc-486b-47f8-a6ce-60aa379e360c.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/eWBAJrCUfjDOr9TKUo/xqFoH1qWRF7c0qAY4koVYUs="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/5941fbcc-486b-47f8-a6ce-60aa379e360c.jpeg",
+      "AssetFile": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\wwwroot\\images\\products\\5941fbcc-486b-47f8-a6ce-60aa379e360c.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5551"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/eWBAJrCUfjDOr9TKUo/xqFoH1qWRF7c0qAY4koVYUs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 18 May 2025 19:17:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/eWBAJrCUfjDOr9TKUo/xqFoH1qWRF7c0qAY4koVYUs="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/814aa662-be06-4790-b4bc-8bd0554d3b4e.dcazypge8m.png",
+      "AssetFile": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\wwwroot\\images\\products\\814aa662-be06-4790-b4bc-8bd0554d3b4e.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2113"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HQVDSBxL07gpB+0Z7VRv8i7sJVbiu7KGFWsQvkQpWqQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 18 May 2025 16:02:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dcazypge8m"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/814aa662-be06-4790-b4bc-8bd0554d3b4e.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HQVDSBxL07gpB+0Z7VRv8i7sJVbiu7KGFWsQvkQpWqQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/814aa662-be06-4790-b4bc-8bd0554d3b4e.png",
+      "AssetFile": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\wwwroot\\images\\products\\814aa662-be06-4790-b4bc-8bd0554d3b4e.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2113"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HQVDSBxL07gpB+0Z7VRv8i7sJVbiu7KGFWsQvkQpWqQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 18 May 2025 16:02:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HQVDSBxL07gpB+0Z7VRv8i7sJVbiu7KGFWsQvkQpWqQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/b7eb38a0-a049-4975-8fb2-74a409be45ae.png",
+      "AssetFile": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\wwwroot\\images\\products\\b7eb38a0-a049-4975-8fb2-74a409be45ae.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "574426"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mxL9zW0iwoO5h6PzXtW9jJXgnwI0dx4PyB7gpXCe7rI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 18 May 2025 16:03:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mxL9zW0iwoO5h6PzXtW9jJXgnwI0dx4PyB7gpXCe7rI="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/b7eb38a0-a049-4975-8fb2-74a409be45ae.pr4tsle1gw.png",
+      "AssetFile": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\wwwroot\\images\\products\\b7eb38a0-a049-4975-8fb2-74a409be45ae.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "574426"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mxL9zW0iwoO5h6PzXtW9jJXgnwI0dx4PyB7gpXCe7rI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 18 May 2025 16:03:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pr4tsle1gw"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/b7eb38a0-a049-4975-8fb2-74a409be45ae.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mxL9zW0iwoO5h6PzXtW9jJXgnwI0dx4PyB7gpXCe7rI="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/fb9cab05-d990-4027-9ea7-2e8ce8606820.png",
+      "AssetFile": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\wwwroot\\images\\products\\fb9cab05-d990-4027-9ea7-2e8ce8606820.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1711"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HT/ZU0n1mxRY1XWJA5cbUkGW6u/pv0ew3Q5eqvqJCJw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 18 May 2025 15:57:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HT/ZU0n1mxRY1XWJA5cbUkGW6u/pv0ew3Q5eqvqJCJw="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/fb9cab05-d990-4027-9ea7-2e8ce8606820.ptjn3i9ywg.png",
+      "AssetFile": "C:\\Users\\Ravan\\Desktop\\MVC C#\\CreditSystem\\CreditManagementSystemHomework\\wwwroot\\images\\products\\fb9cab05-d990-4027-9ea7-2e8ce8606820.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1711"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HT/ZU0n1mxRY1XWJA5cbUkGW6u/pv0ew3Q5eqvqJCJw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 18 May 2025 15:57:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ptjn3i9ywg"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/fb9cab05-d990-4027-9ea7-2e8ce8606820.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HT/ZU0n1mxRY1XWJA5cbUkGW6u/pv0ew3Q5eqvqJCJw="
         }
       ]
     },
