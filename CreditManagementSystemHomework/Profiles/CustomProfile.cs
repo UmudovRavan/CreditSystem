@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
 using CreditManagementSystemHomework.Entities;
 using CreditManagementSystemHomework.Models;
+using CreditManagementSystemHomework.Models.Customer;
 using CreditManagementSystemHomework.Models.Product;
 
 namespace CreditManagementSystemHomework.Profiles
@@ -17,6 +18,10 @@ namespace CreditManagementSystemHomework.Profiles
             CreateMap<ProductVM, Product>().ReverseMap();
             CreateMap<ProductCreateVM, Product>().ReverseMap();
             CreateMap<ProductEditVM, Product>().ReverseMap();
+
+            CreateMap<CustomerVM, Customer>().ReverseMap();
+            CreateMap<CustomerCreateVM, Customer>().ReverseMap();
+            CreateMap<CustomerEditVM, Customer>().ReverseMap();
 
         }
     }

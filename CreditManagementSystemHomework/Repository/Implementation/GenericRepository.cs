@@ -13,6 +13,7 @@ namespace CreditManagementSystemHomework.Repository.Implementation
     {
         private readonly CreditManagementDB _context;
         private readonly DbSet<TEntity> _dbSet;
+        private CreditManagementDB context;
 
         public GenericRepository(CreditManagementDB context)
         {
@@ -23,7 +24,6 @@ namespace CreditManagementSystemHomework.Repository.Implementation
         public async Task<TEntity> AddAsync(TEntity entity)
         {
             await _dbSet.AddAsync(entity);
-            // SaveChangesAsync burada yoxdur, service səviyyəsində çağırılacaq
             return entity;
         }
 
@@ -36,7 +36,6 @@ namespace CreditManagementSystemHomework.Repository.Implementation
             }
 
             _dbSet.Remove(entity);
-            // SaveChangesAsync burada yoxdur, service səviyyəsində çağırılacaq
             return true;
         }
 
@@ -56,7 +55,6 @@ namespace CreditManagementSystemHomework.Repository.Implementation
         {
             entity.UpdatedDate = DateTime.Now;
             _dbSet.Update(entity);
-            // SaveChangesAsync burada yoxdur, service səviyyəsində çağırılacaq
             return entity;
         }
 
