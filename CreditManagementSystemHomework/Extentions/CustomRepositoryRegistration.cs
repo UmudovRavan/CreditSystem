@@ -14,6 +14,8 @@ namespace CreditManagementSystemHomework.Extentions
             services.AddScoped<IProductRepository, ProductRepository>();
             services.AddScoped<ICustomerRepository, CustomerRepository>();
             services.AddScoped<ILoanRepository, LoanRepository>();
+            services.AddScoped<ILoanDetailRepository, LoanDetailRepository>();
+            services.AddScoped<ILoanItemRepository, LoanItemRepository>();
         }
     }
 }

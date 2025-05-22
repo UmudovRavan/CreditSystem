@@ -3,6 +3,8 @@ using CreditManagementSystemHomework.Entities;
 using CreditManagementSystemHomework.Models;
 using CreditManagementSystemHomework.Models.Customer;
 using CreditManagementSystemHomework.Models.Loan;
+using CreditManagementSystemHomework.Models.LoanDetail;
+using CreditManagementSystemHomework.Models.LoanItem;
 using CreditManagementSystemHomework.Models.Product;
 
 namespace CreditManagementSystemHomework.Profiles
@@ -33,6 +35,14 @@ namespace CreditManagementSystemHomework.Profiles
                            opt => opt.MapFrom(src => src.Customer.FullName))
                 .ForMember(dest => dest.EmployeeName,
                            opt => opt.MapFrom(src => src.Employee.FullName));
+
+            CreateMap<LoanDetailVM, LoanDetail>().ReverseMap();
+            CreateMap<LoanDetailCreateVM, LoanDetail>().ReverseMap();
+            CreateMap<LoanDetailEditVM, LoanDetail>().ReverseMap();
+
+            CreateMap<LoanItemVM,LoanItem>().ReverseMap();
+            CreateMap<LoanItemCreateVM, LoanItem>().ReverseMap();
+            CreateMap<LoanItemEditVM, LoanItem>().ReverseMap();
         }
     }
 }

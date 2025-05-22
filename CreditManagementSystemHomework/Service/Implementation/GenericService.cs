@@ -34,7 +34,7 @@ namespace CreditManagementSystemHomework.Service.Implementation
         return success;
     }
 
-    public async Task<IEnumerable<TModel>> GetAllAsync()
+    public virtual async Task<IEnumerable<TModel>> GetAllAsync()
     {
         var entities = await _genericRepository.GetAllAsync();
         return _mapper.Map<IEnumerable<TModel>>(entities);

@@ -1,0 +1,53 @@
+﻿@model CreditManagementSystemHomework.Models.LoanDetail.LoanDetailEditVM
+
+@{
+    ViewData["Title"] = "Edit Loan Detail";
+}
+
+<h2>Edit Loan Detail</h2>
+
+<form asp-action="Edit">
+    <input type="hidden" asp-for="Id" />
+
+    <div class="form-group">
+        <label asp-for="LoanId"></label>
+        <select asp-for="LoanId" asp-items="Model.Loans" class="form-select">
+            <option value="">-- Select Loan --</option>
+        </select>
+        <span asp-validation-for="LoanId" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Amount"></label>
+        <input asp-for="Amount" class="form-control" />
+        <span asp-validation-for="Amount" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="RemainingDebt"></label>
+        <input asp-for="RemainingDebt" class="form-control" />
+        <span asp-validation-for="RemainingDebt" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="StartDate"></label>
+        <input asp-for="StartDate" class="form-control" />
+        <span asp-validation-for="StartDate" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="EndDate"></label>
+        <input asp-for="EndDate" class="form-control" />
+        <span asp-validation-for="EndDate" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Status"></label>
+        <input asp-for="Status" class="form-control" />
+        <span asp-validation-for="Status" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Save</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+</form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

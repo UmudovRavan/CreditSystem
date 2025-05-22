@@ -15,6 +15,12 @@ namespace CreditManagementSystemHomework.Service.Implementation
             _repository = repository;
             _mapper = mapper;
         }
+        public override async Task<IEnumerable<LoanVM>> GetAllAsync()
+        {
+            var loans = await _repository.GetLoansWithCustomerAndEmployeeAsync(); 
+            return _mapper.Map<IEnumerable<LoanVM>>(loans);
+        }
+
         public async Task<IEnumerable<LoanVM>> GetLoansWithCustomerAndEmployeeAsync()
         {
             var loans = await _repository.GetLoansWithCustomerAndEmployeeAsync();

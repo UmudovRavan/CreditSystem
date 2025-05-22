@@ -3,92 +3,171 @@
     Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
 }
 
-<h1>Welcome to Admin Dashboard</h1>
+<h1 class="mb-4 text-center">Welcome to Admin Dashboard</h1>
+<p class="text-muted text-center">Choose an action below to manage system entities:</p>
 
-<p>Choose an action below to manage entities:</p>
+<div class="row row-cols-1 row-cols-md-3 g-4">
 
-<div class="row">
-    <div class="col-md-3">
-        <div class="card border-primary mb-3" style="max-width: 18rem;">
-            <div class="card-header bg-primary text-white">Merchant</div>
+    <!-- Merchant -->
+    <div class="col">
+        <div class="card border-primary shadow-sm h-100">
+            <div class="card-header bg-primary text-white d-flex align-items-center">
+                <i class="bi bi-shop-window me-2"></i> Merchant
+            </div>
             <div class="card-body">
-                <h5 class="card-title">Manage Merchants</h5>
-                <p class="card-text">Add new merchants or view existing ones.</p>
-                <a asp-area="Admin" asp-controller="Merchant" asp-action="Index" class="btn btn-primary">Go to Merchants</a>
-                <a asp-area="Admin" asp-controller="Merchant" asp-action="Create" class="btn btn-success mt-2">Add New Merchant</a>
+                <p>Manage your merchants (view / add).</p>
+                <a asp-area="Admin" asp-controller="Merchant" asp-action="Index" class="btn btn-outline-primary w-100 mb-2">
+                    <i class="bi bi-eye-fill me-1"></i> View Merchants
+                </a>
+                <a asp-area="Admin" asp-controller="Merchant" asp-action="Create" class="btn btn-primary w-100">
+                    <i class="bi bi-plus-lg me-1"></i> Add Merchant
+                </a>
             </div>
         </div>
     </div>
 
-    <div class="col-md-3">
-        <div class="card border-success mb-3" style="max-width: 18rem;">
-            <div class="card-header bg-success text-white">Branch</div>
+    <!-- Branch -->
+    <div class="col">
+        <div class="card border-success shadow-sm h-100">
+            <div class="card-header bg-success text-white d-flex align-items-center">
+                <i class="bi bi-diagram-3 me-2"></i> Branch
+            </div>
             <div class="card-body">
-                <h5 class="card-title">Manage Branches</h5>
-                <p class="card-text">Add new branches or view existing ones.</p>
-                <a asp-area="Admin" asp-controller="Branch" asp-action="Index" class="btn btn-success">Go to Branches</a>
-                <a asp-area="Admin" asp-controller="Branch" asp-action="Create" class="btn btn-primary mt-2">Add New Branch</a>
+                <p>Manage branch locations and data.</p>
+                <a asp-area="Admin" asp-controller="Branch" asp-action="Index" class="btn btn-outline-success w-100 mb-2">
+                    <i class="bi bi-eye-fill me-1"></i> View Branches
+                </a>
+                <a asp-area="Admin" asp-controller="Branch" asp-action="Create" class="btn btn-success w-100">
+                    <i class="bi bi-plus-lg me-1"></i> Add Branch
+                </a>
             </div>
         </div>
     </div>
 
-    <div class="col-md-3">
-        <div class="card border-info mb-3" style="max-width: 18rem;">
-            <div class="card-header bg-info text-white">Employee</div>
+    <!-- Employee -->
+    <div class="col">
+        <div class="card border-info shadow-sm h-100">
+            <div class="card-header bg-info text-white d-flex align-items-center">
+                <i class="bi bi-person-badge me-2"></i> Employee
+            </div>
             <div class="card-body">
-                <h5 class="card-title">Manage Employees</h5>
-                <p class="card-text">Add new employees or view existing ones.</p>
-                <a asp-area="Admin" asp-controller="Employee" asp-action="Index" class="btn btn-info">Go to Employees</a>
-                <a asp-area="Admin" asp-controller="Employee" asp-action="Create" class="btn btn-primary mt-2">Add New Employee</a>
+                <p>Manage employee accounts and roles.</p>
+                <a asp-area="Admin" asp-controller="Employee" asp-action="Index" class="btn btn-outline-info w-100 mb-2">
+                    <i class="bi bi-eye-fill me-1"></i> View Employees
+                </a>
+                <a asp-area="Admin" asp-controller="Employee" asp-action="Create" class="btn btn-info w-100">
+                    <i class="bi bi-plus-lg me-1"></i> Add Employee
+                </a>
             </div>
         </div>
     </div>
 
-    <div class="col-md-3">
-        <div class="card border-warning mb-3" style="max-width: 18rem;">
-            <div class="card-header bg-warning text-dark">Category</div>
-            <div class="card-body">
-                <h5 class="card-title">Manage Categories</h5>
-                <p class="card-text">Add new categories or view existing ones.</p>
-                <a asp-area="Admin" asp-controller="Category" asp-action="Index" class="btn btn-warning text-white">Go to Categories</a>
-                <a asp-area="Admin" asp-controller="Category" asp-action="Create" class="btn btn-primary mt-2">Add New Category</a>
+    <!-- Category -->
+    <div class="col">
+        <div class="card border-warning shadow-sm h-100">
+            <div class="card-header bg-warning text-dark d-flex align-items-center">
+                <i class="bi bi-tags me-2"></i> Category
             </div>
-        </div>
-    </div>
-    <div class="col-md-3">
-        <div class="card border-danger mb-3" style="max-width: 18rem;">
-            <div class="card-header bg-danger text-white">Product</div>
             <div class="card-body">
-                <h5 class="card-title">Manage Products</h5>
-                <p class="card-text">Add new products or view existing ones.</p>
-                <a asp-area="Admin" asp-controller="Product" asp-action="Index" class="btn btn-danger">Go to Products</a>
-                <a asp-area="Admin" asp-controller="Product" asp-action="Add" class="btn btn-primary mt-2">Add New Product</a>
-            </div>
-        </div>
-    </div>
-    <div class="col-md-3">
-        <div class="card border-secondary mb-3" style="max-width: 18rem;">
-            <div class="card-header bg-secondary text-white">Customer</div>
-            <div class="card-body">
-                <h5 class="card-title">Manage Customers</h5>
-                <p class="card-text">Add new customers or view existing ones.</p>
-                <a asp-area="Admin" asp-controller="Customer" asp-action="Index" class="btn btn-secondary">Go to Customers</a>
-                <a asp-area="Admin" asp-controller="Customer" asp-action="Create" class="btn btn-primary mt-2">Add New Customer</a>
-            </div>
-        </div>
-    </div>
-    <div class="col-md-3">
-        <div class="card border-dark mb-3" style="max-width: 18rem;">
-            <div class="card-header bg-dark text-white">Loan</div>
-            <div class="card-body">
-                <h5 class="card-title">Manage Loans</h5>
-                <p class="card-text">Add new loans or view existing ones.</p>
-                <a asp-area="Admin" asp-controller="Loan" asp-action="Index" class="btn btn-dark">Go to Loans</a>
-                <a asp-area="Admin" asp-controller="Loan" asp-action="Create" class="btn btn-primary mt-2">Add New Loan</a>
+                <p>Define and manage product categories.</p>
+                <a asp-area="Admin" asp-controller="Category" asp-action="Index" class="btn btn-outline-warning w-100 mb-2">
+                    <i class="bi bi-eye-fill me-1"></i> View Categories
+                </a>
+                <a asp-area="Admin" asp-controller="Category" asp-action="Create" class="btn btn-warning w-100 text-white">
+                    <i class="bi bi-plus-lg me-1"></i> Add Category
+                </a>
             </div>
         </div>
     </div>
 
+    <!-- Product -->
+    <div class="col">
+        <div class="card border-danger shadow-sm h-100">
+            <div class="card-header bg-danger text-white d-flex align-items-center">
+                <i class="bi bi-box-seam me-2"></i> Product
+            </div>
+            <div class="card-body">
+                <p>Add and manage product inventory.</p>
+                <a asp-area="Admin" asp-controller="Product" asp-action="Index" class="btn btn-outline-danger w-100 mb-2">
+                    <i class="bi bi-eye-fill me-1"></i> View Products
+                </a>
+                <a asp-area="Admin" asp-controller="Product" asp-action="Add" class="btn btn-danger w-100">
+                    <i class="bi bi-plus-lg me-1"></i> Add Product
+                </a>
+            </div>
+        </div>
+    </div>
 
+    <!-- Customer -->
+    <div class="col">
+        <div class="card border-secondary shadow-sm h-100">
+            <div class="card-header bg-secondary text-white d-flex align-items-center">
+                <i class="bi bi-person-lines-fill me-2"></i> Customer
+            </div>
+            <div class="card-body">
+                <p>Manage customer profiles and data.</p>
+                <a asp-area="Admin" asp-controller="Customer" asp-action="Index" class="btn btn-outline-secondary w-100 mb-2">
+                    <i class="bi bi-eye-fill me-1"></i> View Customers
+                </a>
+                <a asp-area="Admin" asp-controller="Customer" asp-action="Create" class="btn btn-secondary w-100">
+                    <i class="bi bi-plus-lg me-1"></i> Add Customer
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <!-- Loan -->
+    <div class="col">
+        <div class="card border-dark shadow-sm h-100">
+            <div class="card-header bg-dark text-white d-flex align-items-center">
+                <i class="bi bi-credit-card-2-front-fill me-2"></i> Loan
+            </div>
+            <div class="card-body">
+                <p>Manage loan agreements and terms.</p>
+                <a asp-area="Admin" asp-controller="Loan" asp-action="Index" class="btn btn-outline-dark w-100 mb-2">
+                    <i class="bi bi-eye-fill me-1"></i> View Loans
+                </a>
+                <a asp-area="Admin" asp-controller="Loan" asp-action="Create" class="btn btn-dark w-100">
+                    <i class="bi bi-plus-lg me-1"></i> Add Loan
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <!-- Loan Detail -->
+    <div class="col">
+        <div class="card border-secondary shadow-sm h-100">
+            <div class="card-header bg-secondary text-white d-flex align-items-center">
+                <i class="bi bi-file-text me-2"></i> Loan Detail
+            </div>
+            <div class="card-body">
+                <p>Track detailed loan information.</p>
+                <a asp-area="Admin" asp-controller="LoanDetail" asp-action="Index" class="btn btn-outline-secondary w-100 mb-2">
+                    <i class="bi bi-eye-fill me-1"></i> View Loan Details
+                </a>
+                <a asp-area="Admin" asp-controller="LoanDetail" asp-action="Create" class="btn btn-secondary w-100">
+                    <i class="bi bi-plus-lg me-1"></i> Add Loan Detail
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <!-- Loan Item -->
+    <div class="col">
+        <div class="card border-primary shadow-sm h-100">
+            <div class="card-header bg-primary text-white d-flex align-items-center">
+                <i class="bi bi-list-ul me-2"></i> Loan Item
+            </div>
+            <div class="card-body">
+                <p>Manage individual items within loans.</p>
+                <a asp-area="Admin" asp-controller="LoanItem" asp-action="Index" class="btn btn-outline-primary w-100 mb-2">
+                    <i class="bi bi-eye-fill me-1"></i> View Loan Items
+                </a>
+                <a asp-area="Admin" asp-controller="LoanItem" asp-action="Create" class="btn btn-primary w-100">
+                    <i class="bi bi-plus-lg me-1"></i> Add Loan Item
+                </a>
+            </div>
+        </div>
+    </div>
 
 </div>

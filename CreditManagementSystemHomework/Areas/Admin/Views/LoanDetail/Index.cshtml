@@ -1,0 +1,41 @@
+﻿@model IEnumerable<CreditManagementSystemHomework.Models.LoanDetail.LoanDetailVM>
+
+@{
+    ViewData["Title"] = "Loan Details";
+}
+
+<h2>Loan Details</h2>
+
+<a class="btn btn-primary mb-3" asp-action="Create">Create New Loan Detail</a>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Loan ID</th>
+            <th>Amount</th>
+            <th>Remaining Debt</th>
+            <th>Start Date</th>
+            <th>End Date</th>
+            <th>Status</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.LoanId</td>
+                <td>@item.Amount.ToString("C")</td>
+                <td>@item.RemainingDebt.ToString("C")</td>
+                <td>@item.StartDate.ToShortDateString()</td>
+                <td>@item.EndDate.ToShortDateString()</td>
+                <td>@item.Status</td>
+                <td>
+                    <a class="btn btn-sm btn-warning" asp-action="Edit" asp-route-id="@item.Id">Edit</a>
+                    <a class="btn btn-sm btn-danger" asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

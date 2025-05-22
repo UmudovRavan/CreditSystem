@@ -1,0 +1,32 @@
+﻿@model IEnumerable<CreditManagementSystemHomework.Models.LoanItem.LoanItemVM>
+
+<h2>Loan Items</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Quantity</th>
+            <th>Price</th>
+            <th>Total Amount</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Quantity</td>
+                <td>@item.Price</td>
+                <td>@item.TotalAmount</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-action="Create" class="btn btn-primary">Create New</a>
+
+
