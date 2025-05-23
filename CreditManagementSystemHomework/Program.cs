@@ -1,10 +1,12 @@
 using CreditManagementSystemHomework.Data;
+using CreditManagementSystemHomework.Entities;
 using CreditManagementSystemHomework.Extentions;
 using CreditManagementSystemHomework.Profiles;
 using CreditManagementSystemHomework.Repository.Implementation;
 using CreditManagementSystemHomework.Repository.Interfaces;
 using CreditManagementSystemHomework.Service.Implementation;
 using CreditManagementSystemHomework.Service.Interface;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
 namespace CreditManagementSystemHomework
@@ -21,6 +23,12 @@ namespace CreditManagementSystemHomework
             builder.Services.AddDbContext<CreditManagementDB>(options =>
             options.UseSqlServer(builder.Configuration.GetConnectionString("Default")));
 
+            builder.Services.AddIdentity<AppUser, IdentityRole>(options =>
+            {
+                options.SignIn.RequireConfirmedAccount = false;
+                options.User.RequireUniqueEmail = true;
+            }).AddEntityFrameworkStores<CreditManagementDB>()
+    .AddDefaultTokenProviders();
 
             builder.Services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));
             builder.Services.AddScoped(typeof(IGenericService<,>), typeof(GenericService<,>));

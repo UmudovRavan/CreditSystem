@@ -1,9 +1,10 @@
 ﻿using CreditManagementSystemHomework.Entities;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
 namespace CreditManagementSystemHomework.Data
 {
-    public class CreditManagementDB :DbContext
+    public class CreditManagementDB : IdentityDbContext<AppUser>
     {
         public CreditManagementDB(DbContextOptions<CreditManagementDB> options) : base(options) { }
         public DbSet<Branch> Branches { get; set; }
