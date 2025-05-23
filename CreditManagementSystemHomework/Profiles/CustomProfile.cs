@@ -5,6 +5,7 @@ using CreditManagementSystemHomework.Models.Customer;
 using CreditManagementSystemHomework.Models.Loan;
 using CreditManagementSystemHomework.Models.LoanDetail;
 using CreditManagementSystemHomework.Models.LoanItem;
+using CreditManagementSystemHomework.Models.Payment;
 using CreditManagementSystemHomework.Models.Product;
 
 namespace CreditManagementSystemHomework.Profiles
@@ -43,6 +44,11 @@ namespace CreditManagementSystemHomework.Profiles
             CreateMap<LoanItemVM,LoanItem>().ReverseMap();
             CreateMap<LoanItemCreateVM, LoanItem>().ReverseMap();
             CreateMap<LoanItemEditVM, LoanItem>().ReverseMap();
+
+            CreateMap<PaymentVM, Payment>().ReverseMap();
+            CreateMap<PaymentCreateVM, Payment>().ReverseMap();
+            CreateMap<PaymentUpdateVM, Payment>().ReverseMap();
+
         }
     }
 }

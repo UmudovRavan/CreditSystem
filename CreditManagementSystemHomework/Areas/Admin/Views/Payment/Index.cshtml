@@ -1,0 +1,36 @@
+﻿@model IEnumerable<CreditManagementSystemHomework.Models.Payment.PaymentVM>
+
+@{
+    ViewData["Title"] = "Payment List";
+}
+
+<h2>Payment List</h2>
+
+<a asp-action="Create" class="btn btn-primary mb-3">Create New Payment</a>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Payment Date</th>
+            <th>Amount</th>
+            <th>Payment Method</th>
+            <th>Loan ID</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var payment in Model)
+        {
+            <tr>
+                <td>@payment.PaymentDate.ToShortDateString()</td>
+                <td>@payment.Amount</td>
+                <td>@payment.PaymentMethod</td>
+                <td>@payment.LoanId</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@payment.Id" class="btn btn-warning btn-sm">Edit</a>
+                    <a asp-action="Delete" asp-route-id="@payment.Id" class="btn btn-danger btn-sm">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
